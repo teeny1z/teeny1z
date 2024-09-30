@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @teeny1z
+- 👀 I’m interested in Java web develop
